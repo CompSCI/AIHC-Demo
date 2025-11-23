@@ -37,10 +37,10 @@ Provides fast workflows for **patients, doctors, appointments, conflict detectio
 * Rescheduling and editing existing appointments
 * Doctor availability validation
 
-### 🔍 Global Patient Search
+### 🔍 Global Patient/Doctor Search
 
 * Search field in the header
-* Auto-switches to “Patients” tab when searching
+* Tabbed results for "Patient" and "Doctor"
 * Smart filtering
 
 ### 🧼 Safe Input Handling
