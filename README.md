@@ -177,6 +177,12 @@ npm install
 npm run dev
 ```
 
+### 🔐 Login Details
+
+**URL:** http://localhost:5173  
+**Username:** `admin`  
+**Password:** `admin`
+
 ### 4. Build Production
 
 ```bash
